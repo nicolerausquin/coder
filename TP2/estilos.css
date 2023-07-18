@@ -1,0 +1,106 @@
+*{
+    padding: 0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(imagenes/blue.jpg);
+}
+.miCarousel{
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contacto{
+    background-color: #e0c88d;
+    grid-area: contacto;
+}
+
+ h1{
+    font-family: 'Inconsolata', monospace !important;
+    font-family: 'Lilita One', cursive !important;
+    font-family: 'Montserrat', sans-serif !important;
+    color: lightblue !important;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+} 
+
+
+img{
+    
+    padding: auto;
+    margin: 20px;
+   
+}
+
+ .menu {
+ color:black;
+ display:flex;
+ text-align: center;
+ justify-content: center;
+ list-style: none;
+ text-decoration: none;
+ padding: 1%;
+ }
+ .container-fluid{
+    width: 10%;
+ }
+
+.nosotros{
+    background-color: #06346c;
+}
+
+.pasteleria{
+    background-color: #4b6f90;
+}
+.social img{
+    line-height: 40px;
+    padding-bottom: 12px;
+    display:inline;
+    height: 40px;
+    
+    
+}
+
+.sub0 {
+    text-decoration: none;
+    list-style: none;
+    pointer-events: none;
+    cursor: default;
+    color: black;
+    margin: 10px;
+
+}
+.sub1{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    margin: 10px;
+}
+.sub2{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    margin: 10px;
+}
+.sub3{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    margin: 10px;
+}
+.sub4{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    margin: 10px;
+}
+ 
+.tortas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
