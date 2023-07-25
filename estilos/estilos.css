@@ -7,12 +7,20 @@
 body{
     background-image: url(imagenes/blue.jpg);
 }
+
+
+.navbar-pin{
+    width: 50px;
+    height: 50px;
+}
+
 .miCarousel{
     width: 20%;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 .contacto{
     background-color: #e0c88d;
     grid-area: contacto;
